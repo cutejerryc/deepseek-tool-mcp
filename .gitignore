@@ -1,0 +1,7 @@
+# Build output
+/bin/
+*.exe
+
+# Local secrets and logs
+.env
+*.log
